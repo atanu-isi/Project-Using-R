@@ -13,7 +13,7 @@ library(gridExtra)
 ##############################################################################################
 
 #---------------------Step1: Loading the Data in R
-Path<-setwd("C:/Users/TANIA DAS/OneDrive/Desktop/Rivy")
+Path<-setwd("C:/Users/ATANU DAS/OneDrive/Desktop/Rivy")
 airlines<-read.csv("AirlinesCluster.csv", header = TRUE, as.is = TRUE, na.strings = c(""))
 
 
