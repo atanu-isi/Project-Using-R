@@ -16,7 +16,7 @@ kpss.test
 
 #-----------------------------Setting the working directory-------------------------------------------#
 
-Path<-"C:/Users/TANIA DAS/OneDrive/Desktop/Rivy"
+Path<-"C:/Users/ATANU DAS/OneDrive/Desktop/Rivy"
 setwd(Path)
 getwd()
 
