@@ -11,7 +11,7 @@ library(caTools)
 library(dplyr)
 
 #Setting the woorking directory
-setwd("C:/Users/TANIA DAS/Downloads")
+setwd("C:/Users/ATANU DAS/Downloads")
 
 #Reding the csv file
 Elantra<-read.csv("elantra.csv")
