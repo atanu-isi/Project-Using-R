@@ -26,7 +26,7 @@ library(caTools)
 library(e1071)
 
 #Setting the working directory and reading the data set#
-setwd("C:/Users/TANIA DAS/OneDrive/Desktop/Rivy")
+setwd("C:/Users/ATANU DAS/OneDrive/Desktop/Rivy")
 getwd()
 data<-read.csv("Leads_data.csv")
 lead<-data#Copy of the data set
