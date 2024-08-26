@@ -17,7 +17,7 @@ library(caTools)#TRAIN AND TEST SPLIT
 
 
 #--------------------------------Setting the Working Directory-----------------------------------------#
-setwd("C:/Users/TANIA DAS/Downloads")
+setwd("C:/Users/ATANU DAS/Downloads")
 
 data<-read.csv("Data_for_Logistic_Regression.csv",header=TRUE)
 data1=data#To create a backup of original data
